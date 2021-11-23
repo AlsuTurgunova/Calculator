@@ -253,7 +253,6 @@ public class Calculator {
         operations.pop();
     }
 
-
     /**
      * Redefined method
      * @return Outputs the response as a string.
