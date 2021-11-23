@@ -241,6 +241,7 @@ public class Calculator {
                 numbers.push(num1*num2);
                 break;
             }
+
             case '/': {
                 if (num1 == 0) {
                     throw new Exception("Division by zero!");
